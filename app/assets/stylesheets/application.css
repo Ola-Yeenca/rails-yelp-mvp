@@ -13,3 +13,27 @@
  *= require_tree .
  *= require_self
  */
+
+:root {
+  color-scheme: dark;
+}
+
+ #restaurant-name {
+  /* padding: 50px; */
+  margin: 10px;
+  background-position: 100px;
+
+ }
+
+ .container {
+  color: black;
+  height: auto;
+  width: 10px;
+  animation: normal;
+  background-color: grey;
+  width: 100px;
+  align-content: center;
+  margin: 50px;
+  border-radius: 20px;
+  box-shadow: 10px 10px;
+ }
